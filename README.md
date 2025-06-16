@@ -14,7 +14,7 @@ A mobile application for accessible examination, designed for visually impaired 
 
 - **Admin Access**: 
   - Email: natiabay1017@gmail.com
-  - Password: 1017912
+  - Password: 12345678
   - The admin can create accounts for students and instructors
 
 - **Student & Instructor Access**:
