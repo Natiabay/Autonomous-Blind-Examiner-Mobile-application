@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies>
+        <!-- We need the ability to lock the task -->
+        <force-lock />
+        <!-- Ability to manage lockscreen -->
+        <disable-keyguard-features />
+        <!-- Helps ensure the user is authenticated to enter the exam -->
+        <watch-login />
+        <!-- Required for restarting the app if user tries to kill it -->
+        <force-lock />
+    </uses-policies>
+</device-admin> 

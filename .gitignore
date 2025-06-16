@@ -1,0 +1,50 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+*.hprof
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+# google-services.json
+
+# Android Profiling
+*.hprof
+
+# Exclude ALL large ML model files
+*.tflite
+app/asag_model.tflite
+app/BrailleNet.tflite
+app/src/main/assets/**/*.tflite
+app/src/main/assets/models/
+app/src/main/assets/asag_model.tflite/
+app/src/main/assets/braillenet.tflite/
+
+# Large log files
+replay_pid*.log
+hs_err_pid*.log
+
+# Kotlin build files
+.kotlin/

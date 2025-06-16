@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "156520842562",
+    "firebase_url": "https://a-blind-examiner-default-rtdb.firebaseio.com",
+    "project_id": "a-blind-examiner",
+    "storage_bucket": "a-blind-examiner.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156520842562:android:96ae04b74dffb1df4174db",
+        "android_client_info": {
+          "package_name": "com.example.ablindexaminer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk2SilNxUc_AuB4ytBNTWNRJHLdrM90kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

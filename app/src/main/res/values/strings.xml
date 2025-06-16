@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A Blind Examiner</string>
+    
+    <!-- Device Admin Strings -->
+    <string name="device_admin_label">Exam Security Admin</string>
+    <string name="device_admin_description">Enable device admin for secure exam mode</string>
+    
+    <!-- Security Related Strings -->
+    <string name="security_warning_title">Security Violation Detected</string>
+    <string name="security_warning_message">Attempting to exit the exam is a security violation and may result in automatic exam termination. This incident has been logged.</string>
+    <string name="security_warning_action">Return to Exam</string>
+    <string name="security_enable_pinning">Please enable screen pinning for exam security</string>
+    <string name="braille_input_instructions">Touch the screen to write your answer in Braille. Each touch will create a dot.</string>
+    <string name="clear_input">Clear Input</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="space">Space</string>
+    <string name="current_answer">Current answer: %1$s</string>
+</resources>
