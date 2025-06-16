@@ -190,8 +190,6 @@ This project is part of a thesis research on accessible education technology.
 ## Common Issues
 
 ### ML Model Issues
-- Ensure sufficient device memory
-- Check camera permissions
 - Verify model file integrity
 
 ### Accessibility Features
