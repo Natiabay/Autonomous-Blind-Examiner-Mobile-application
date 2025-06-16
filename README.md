@@ -1,4 +1,4 @@
-# A Blind Examiner Application
+# Autonomous Blind Examiner mobile Application
 
 A mobile application for accessible examination, designed for visually impaired students and educators.
 
